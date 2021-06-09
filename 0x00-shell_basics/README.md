@@ -12,3 +12,4 @@
 * A script that changes the working directory to the previous one: cd -
 * A script that lists all files in the current directory and the parent of the working directory and the /boot directory in long format: ls -l -a . .. /boot
 * A script that prints the type of the file named iamafile: file /tmp/iamafile
+* A script to create a symbolic link to /bin/ls, named __ls__: ln -s /bin/ls __ls__
