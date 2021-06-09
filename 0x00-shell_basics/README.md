@@ -7,4 +7,5 @@
 * A script to display current directory contents, long format, with user and group IDs displayed numerically and hidden files: ls -lna
 * A script that creates a directory named holberton in the /tmp/ directory: mkdir /tmp/holberton/
 * A script to move the file betty from /tmp/ to /tmp/holberton directory: mv /tmp/betty /tmp/holberton/
+* A script to delete the file betty: rm /tmp/holberton/betty
 
