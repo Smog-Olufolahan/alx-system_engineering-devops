@@ -1,3 +1,4 @@
+
 # Shell Basic Commands
 * A script that prints the absolute path name of the working directory: pwd
 * A script that display the contents list of your current directory: ls
@@ -17,3 +18,4 @@
 * A script that moves all files beginning with an uppercase letter to a directory: mv [[:upper:]]* /tmp/u
 * A script that deletes all files in the current working directory thta end with the character ~ : rm *~
 * A script that creates the directories: mkdir -p welcome/to/holberton
+* A script that list all the files and directories of the current directory, separated by commas: ls -map
