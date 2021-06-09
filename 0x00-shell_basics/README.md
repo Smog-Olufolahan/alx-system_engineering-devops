@@ -19,3 +19,4 @@
 * A script that deletes all files in the current working directory thta end with the character ~ : rm *~
 * A script that creates the directories: mkdir -p welcome/to/holberton
 * A script that list all the files and directories of the current directory, separated by commas: ls -map
+* A magic file holberton.mgc: !:mine Holberton
