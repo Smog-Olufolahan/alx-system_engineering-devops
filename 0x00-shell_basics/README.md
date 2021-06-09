@@ -9,4 +9,4 @@
 * A script to move the file betty from /tmp/ to /tmp/holberton directory: mv /tmp/betty /tmp/holberton/
 * A script to delete the file betty: rm /tmp/holberton/betty
 * A script to delete the directory holberton that is in the /tmp directory: rmdir /tmp/holberton
-
+* A script that changes the working directory to the previous one: cd -
