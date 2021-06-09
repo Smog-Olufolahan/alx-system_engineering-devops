@@ -6,3 +6,5 @@
 * A script that display directory contents, including hidden files (starting with .): ls -l -a
 * A script to display current directory contents, long format, with user and group IDs displayed numerically and hidden files: ls -lna
 * A script that creates a directory named holberton in the /tmp/ directory: mkdir /tmp/holberton/
+* A script to move the file betty from /tmp/ to /tmp/holberton directory: mv /tmp/betty /tmp/holberton/
+
