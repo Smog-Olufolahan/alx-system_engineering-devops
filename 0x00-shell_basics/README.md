@@ -10,3 +10,4 @@
 * A script to delete the file betty: rm /tmp/holberton/betty
 * A script to delete the directory holberton that is in the /tmp directory: rmdir /tmp/holberton
 * A script that changes the working directory to the previous one: cd -
+* A script that lists all files in the current directory and the parent of the working directory and the /boot directory in long format: ls -l -a . .. /boot
