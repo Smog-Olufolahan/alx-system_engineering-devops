@@ -16,3 +16,4 @@
 * A script that copies all the HTML files from the current working directory to the parent of the working directory: cp -n -u *.html ..
 * A script that moves all files beginning with an uppercase letter to a directory: mv [[:upper:]]* /tmp/u
 * A script that deletes all files in the current working directory thta end with the character ~ : rm *~
+* A script that creates the directories: mkdir -p welcome/to/holberton
