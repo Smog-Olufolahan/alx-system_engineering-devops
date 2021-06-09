@@ -5,3 +5,4 @@
 * A script that display current directory contents in a long format: ls -l
 * A script that display directory contents, including hidden files (starting with .): ls -l -a
 * A script to display current directory contents, long format, with user and group IDs displayed numerically and hidden files: ls -lna
+* A script that creates a directory named holberton in the /tmp/ directory: mkdir /tmp/holberton/
