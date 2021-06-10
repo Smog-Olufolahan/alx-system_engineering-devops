@@ -25,5 +25,7 @@
  -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 script = chmod 753 hello
 ## 10. Look in the mirror
+* A script that sets the mode of the file hello the same as olleh's mode: chmod --reference=olleh hello
+## 11. Directories
 
    
