@@ -9,3 +9,5 @@
 * A script that changes the owner of the file hello to ther user betty: chown betty hello
 ## 4. Empty!
 * A script that creates an empty file called hello: touch hello
+## 5. Execute
+* A script that adds execute permission to the owner of the file hello: chmod u+x hello
