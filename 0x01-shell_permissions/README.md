@@ -5,3 +5,5 @@
 * A script that prints the effective username of the current user: whoami
 ## 2. Groups
 * A script that prints all the groups the current user is part of: groups
+## 3. New owner
+* A script that changes the owner of the file hello to ther user betty: chown betty hello
