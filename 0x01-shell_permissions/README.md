@@ -37,5 +37,6 @@
 ## 15. Symbolic links
 * A script that changes the owner and the group owner of _hello to betty and holberton respectively: chown -h betty:holberton _hello
 ## 16. If only
-* A script that changes the owner of the file hello to betty only if it is owned by the user guillaume
-## 17. 
+* A script that changes the owner of the file hello to betty only if it is owned by the user guillaume: chown --from=guillaume betty hello
+## 17. Star Wars
+* A script that will play StarWars IV episode in the terminal: telnet towel.blinkenlights.nl
