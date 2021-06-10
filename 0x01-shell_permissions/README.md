@@ -21,5 +21,9 @@
    - Group: no permission at all
    - Other users: all the permissions : chmod 007 hello
 ## 9. John Doe
+* A script that sets the mode of the file hello to this :
+ -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
+script = chmod 753 hello
+## 10. Look in the mirror
 
    
