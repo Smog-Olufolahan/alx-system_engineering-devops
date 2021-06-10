@@ -30,3 +30,6 @@
 * A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed: sudo chmod -R +111 */
 ## 12. More directories
 * A script that creates a directory called dir_holberton with permissions 751 in the working directory: mkdir -m 751 dir_holberton
+## 13. Change group
+* A script that changes the group owner to holberton for the file hello: chgrp holberton hello
+## 14. 
