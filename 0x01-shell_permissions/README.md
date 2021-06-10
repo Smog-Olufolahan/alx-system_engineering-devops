@@ -28,4 +28,5 @@
 * A script that sets the mode of the file hello the same as olleh's mode: chmod --reference=olleh hello
 ## 11. Directories
 * A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed: sudo chmod -R +111 */
-   
+## 12. More directories
+* A script that creates a directory called dir_holberton with permissions 751 in the working directory: mkdir -m 751 dir_holberton
