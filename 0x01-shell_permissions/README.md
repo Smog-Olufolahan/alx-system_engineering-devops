@@ -32,4 +32,5 @@
 * A script that creates a directory called dir_holberton with permissions 751 in the working directory: mkdir -m 751 dir_holberton
 ## 13. Change group
 * A script that changes the group owner to holberton for the file hello: chgrp holberton hello
-## 14. 
+## 14. Owner and group
+* A script that changes the owner to betty and the group owner to holberton for all the files and directories in the working directory: chown betty:holberton *
