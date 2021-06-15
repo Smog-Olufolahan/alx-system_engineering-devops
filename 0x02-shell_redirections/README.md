@@ -36,4 +36,6 @@
 ## 17. I hate bins
 *A script that display all the lines in the file /etc/passwd that do not contain the pattern "bin": grep -v bin /etc/passwd
 ## 18. Letters only please
-* A script that display all lines of the file /etc/ssh/sshd_config starting with a letter: 
+* A script that display all lines of the file /etc/ssh/sshd_config starting with a letter: grep ^[[:alpha:]] /etc/ssh/sshd_config
+## 19. A to Z
+* A script to replace all xters A and c from input to Z and e respectively: 
