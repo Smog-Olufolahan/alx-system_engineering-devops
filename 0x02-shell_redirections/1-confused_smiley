@@ -1,2 +1,3 @@
 #!/bin/bash
-echo \"\(C-x 8 ^ O o\)\"
+echo \"\(Ôo\)\'
+
