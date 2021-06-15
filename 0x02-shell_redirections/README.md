@@ -30,3 +30,6 @@
 ## 14. It must be in that file
 * A script that display lines containing the pattern "root" from the file /etc/passwd: grep root /etc/passwd
 ## 15. Count that word
+* A script that display the number of lines that pattern "bin" in the file /etc/passwd: grep -c bin /etc/passwd
+## 16. What's next
+* A script that display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd: 
