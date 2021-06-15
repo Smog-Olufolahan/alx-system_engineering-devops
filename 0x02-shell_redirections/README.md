@@ -34,4 +34,6 @@
 ## 16. What's next
 * A script that display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd: cat /etc/passwd | grep -A 3 "root"
 ## 17. I hate bins
-*
+*A script that display all the lines in the file /etc/passwd that do not contain the pattern "bin": grep -v bin /etc/passwd
+## 18. Letters only please
+* A script that display all lines of the file /etc/ssh/sshd_config starting with a letter: 
