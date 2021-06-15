@@ -24,4 +24,6 @@
 ## 11. Don't just your directories, make your directories count
 * A script that counts the number of directories and sub-directories in the current directory: find . -mindepth 1 -type d | wc -l
 ## 12. What's new
-* A script that displays the 10 newest files in the current directory: 
+* A script that displays the 10 newest files in the current directory: ls -t | head
+## 13. Being unique is better than being perfect
+* A script that takes a list of words as input and prints only words that appear exactly once: 
