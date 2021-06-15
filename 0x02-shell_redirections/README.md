@@ -32,4 +32,6 @@
 ## 15. Count that word
 * A script that display the number of lines that pattern "bin" in the file /etc/passwd: grep -c bin /etc/passwd
 ## 16. What's next
-* A script that display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd: 
+* A script that display lines containing the pattern "root" and 3 lines after them in the file /etc/passwd: cat /etc/passwd | grep -A 3 "root"
+## 17. I hate bins
+*
