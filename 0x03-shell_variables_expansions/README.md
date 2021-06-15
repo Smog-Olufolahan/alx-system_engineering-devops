@@ -17,3 +17,5 @@
   - Value: Holberton
 ## 7. Global variable  
 * A script that creates a new global variable: export HOLBERTON=Betty
+## 8. Every addition to true knowledge is an addition to human power
+* A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line: echo $(($TRUEKNOWLEDGE+128))
