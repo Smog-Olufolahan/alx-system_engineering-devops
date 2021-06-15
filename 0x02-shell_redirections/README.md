@@ -22,4 +22,6 @@
 ## 10. No more javascript
 * A script that deletes all the regular files(not the directories) with a .js extension that are present in the current directory and all its subfolders: find . -name "*.js" -type f -delete
 ## 11. Don't just your directories, make your directories count
-* A script that counts the number of directories and sub-directories in the current directory:
+* A script that counts the number of directories and sub-directories in the current directory: find . -mindepth 1 -type d | wc -l
+## 12. What's new
+* A script that displays the 10 newest files in the current directory: 
