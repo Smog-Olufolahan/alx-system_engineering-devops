@@ -25,3 +25,6 @@
 * A script that display the result of BREATH to the power LOVE: echo $(($BREATH**$LOVE))
 ## 11. There are 10 types of people in the world -- Those who understand binary, and those who don't
 * A script that converts a number from base 2 to base 10: echo $((2#$BINARY))
+## 12. Combination
+* A script that prints all possible combinations of two letters, expect oo: echo {a..z}{a..z} | tr ' ' '\n' | grep -v oo
+## 13. 
