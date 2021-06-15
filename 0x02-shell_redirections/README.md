@@ -47,4 +47,6 @@
 * A script that displays all users and their home directories, sorted by users: cut -d":" --fields=1,6 /etc/passwd | sort
 ## 23. Empty casks make the most noise
 * A script that finds all empty files and directories in the current directory and all sub-directories: find . -empty -printf "%f\n"
-## 24. 
+## 24. A gif is worth ten thousand words
+* A script that lists all the files with a .gif extension in the current directory and all its sub_directories: check repo for answer.
+## 25. Acrostic
