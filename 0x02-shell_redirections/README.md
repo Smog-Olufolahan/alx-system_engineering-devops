@@ -38,4 +38,6 @@
 ## 18. Letters only please
 * A script that display all lines of the file /etc/ssh/sshd_config starting with a letter: grep ^[[:alpha:]] /etc/ssh/sshd_config
 ## 19. A to Z
-* A script to replace all xters A and c from input to Z and e respectively: 
+* A script to replace all xters A and c from input to Z and e respectively: tr 'Ac' 'Ze'
+## 20. Without C, you will live in hiago
+* A script that removes all letters c and C from input:
