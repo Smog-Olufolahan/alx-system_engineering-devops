@@ -44,4 +44,5 @@
 ## 21. esreveR
 * A script that reverse its input: rev
 ## 22. DJ Cut Killer
-* A script that displays all users and their home directories, sorted by users: 
+* A script that displays all users and their home directories, sorted by users: cut -d":" --fields=1,6 /etc/passwd | sort
+## 
