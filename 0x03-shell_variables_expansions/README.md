@@ -33,4 +33,5 @@
 * A script that converts a number from base 10 to base 16: prinf "%x\n" $DECIMAL
 ## 15. Everyone is a proponent of strong encryption
 * A script that encodes and decodes text using the root13 encryption. Assume ASCII: tr 'A-Za-z' 'N-ZA-Mn-za-m'
-## 16. 
+## 16. The eggs of the brood need to be an odd number
+* A script that prints every other line from the input, starting with the first line: paste -d" " - - | cut -d " " -f 1
