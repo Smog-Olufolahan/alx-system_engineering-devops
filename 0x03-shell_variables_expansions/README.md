@@ -31,4 +31,6 @@
 * A script that prints a number with two decimal places, followed by a new line: printf "%0.2f\n" $NUM
 ## 14. Decimal to Hexadecimal
 * A script that converts a number from base 10 to base 16: prinf "%x\n" $DECIMAL
-## 15. 
+## 15. Everyone is a proponent of strong encryption
+* A script that encodes and decodes text using the root13 encryption. Assume ASCII: tr 'A-Za-z' 'N-ZA-Mn-za-m'
+## 16. 
