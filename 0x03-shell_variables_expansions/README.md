@@ -9,3 +9,5 @@
 * A script that counts the number of directories in the PATH: echo $PATH | tr ":" "\n" | wc -l
 ## 4. Global variables
 * A script that lists environment variables: printenv
+## 5. Local variables
+* A script that lists all local variables and environment variables, and functions: set
