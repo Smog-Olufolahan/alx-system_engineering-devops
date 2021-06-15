@@ -21,3 +21,5 @@
 * A script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line: echo $(($TRUEKNOWLEDGE+128))
 ## 9. Divide and rule
 * A script that prints the result of POWER divided by DIVIDE, followed by a new line: echo $(($POWER/DIVIDE))
+## 10. Love is another to life, posterior to death, initial of creation, and the exponent of breath
+* A script that display the result of BREATH to the power LOVE: echo $(($BREATH**$LOVE))
