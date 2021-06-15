@@ -51,4 +51,5 @@
 * A script that lists all the files with a .gif extension in the current directory and all its sub_directories: check repo for answer.
 ## 25. Acrostic
 *A script that decodes acrostics that use the first letter of each line: echo -ne $(cut -c-1 | tr -d '\n')'\n'
-## 26. 
+## 26. The biggest fan
+* A script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests: tail -n +2 | cut -f1 | sort | uniq -c | sort -nr -k 1,1 | cut -c 9- | head -11
