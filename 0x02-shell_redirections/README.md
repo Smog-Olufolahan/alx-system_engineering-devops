@@ -48,7 +48,7 @@
 ## 23. Empty casks make the most noise
 * A script that finds all empty files and directories in the current directory and all sub-directories: find . -empty -printf "%f\n"
 ## 24. A gif is worth ten thousand words
-* A script that lists all the files with a .gif extension in the current directory and all its sub_directories: check repo for answer.
+* A script that lists all the files with a .gif extension in the current directory and all its sub_directories: *.gif check repo for answer.
 ## 25. Acrostic
 *A script that decodes acrostics that use the first letter of each line: echo -ne $(cut -c-1 | tr -d '\n')'\n'
 ## 26. The biggest fan
