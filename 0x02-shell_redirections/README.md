@@ -45,4 +45,6 @@
 * A script that reverse its input: rev
 ## 22. DJ Cut Killer
 * A script that displays all users and their home directories, sorted by users: cut -d":" --fields=1,6 /etc/passwd | sort
-## 
+## 23. Empty casks make the most noise
+* A script that finds all empty files and directories in the current directory and all sub-directories: find . -empty -printf "%f\n"
+## 24. 
