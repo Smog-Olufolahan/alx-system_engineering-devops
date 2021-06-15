@@ -16,4 +16,4 @@
   - Name: BETTY
   - Value: Holberton
 ## 7. Global variable  
-  
+* A script that creates a new global variable: export HOLBERTON=Betty
