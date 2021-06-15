@@ -43,3 +43,5 @@
 * A script that removes all letters c and C from input: tr -d 'Cc'
 ## 21. esreveR
 * A script that reverse its input: rev
+## 22. DJ Cut Killer
+* A script that displays all users and their home directories, sorted by users: 
