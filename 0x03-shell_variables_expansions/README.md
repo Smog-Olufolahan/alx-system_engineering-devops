@@ -11,3 +11,9 @@
 * A script that lists environment variables: printenv
 ## 5. Local variables
 * A script that lists all local variables and environment variables, and functions: set
+## 6. Local variable
+* A script that creates a new local variable: BETTY=Holberton
+  - Name: BETTY
+  - Value: Holberton
+## 7. Global variable  
+  
